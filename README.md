@@ -2,7 +2,7 @@
 ![스크린샷 2024-12-24 152140](https://github.com/user-attachments/assets/d77d2830-77bc-4ed4-aeb7-dfc809862cc9)
 
 ## 📖 프로젝트 소개
-**Unreal Engine 5를 활용한 MARIOKART DELUXE 8 게임 모작**
+**Unreal Engine 4를 활용한 MARIOKART DELUXE 8 게임 모작**
 
 ## ✨ 팀원 소개
 기획팀 : 박승현, 한정수 <br>
